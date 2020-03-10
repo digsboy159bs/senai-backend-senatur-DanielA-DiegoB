@@ -1,0 +1,14 @@
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.deps.json
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.runtimeconfig.json
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.runtimeconfig.dev.json
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.dll
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.csprojAssemblyReference.cache
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.RazorAssemblyInfo.cache
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.RazorAssemblyInfo.cs
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.AssemblyInfoInputs.cache
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.AssemblyInfo.cs
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.RazorTargetAssemblyInfo.cache
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.pdb
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.dll
+C:\Users\34436810852\source\repos\Senai.Senatur.WebApi.DataBaseFirst\Senai.Senatur.WebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.Senatur.WebApi.DataBaseFirst.pdb
