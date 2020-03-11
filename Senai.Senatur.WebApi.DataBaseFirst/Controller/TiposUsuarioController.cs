@@ -31,5 +31,12 @@ namespace Senai.Senatur.WebApi.DataBaseFirst.Controller
             // Retorna a lista e um status code 200 - Ok
             return Ok(_tipoUsuarioRepository.Listar());
         }
+
+        [HttpGet("{id}")]
+        public IActionResult GetById(int id)
+        {
+            return Ok(_tipoUsuarioRepository.BuscarPorId(id));
+
+        }
     }
 }

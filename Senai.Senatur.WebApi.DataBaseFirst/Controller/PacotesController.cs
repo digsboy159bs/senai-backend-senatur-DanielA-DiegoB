@@ -67,6 +67,12 @@ namespace Senai.Senatur.WebApi.DataBaseFirst.Controller
 
         }
 
+        [HttpGet("{id}")]
+        public IActionResult GetById(int id)
+        {
+            return Ok(_pacoteRepository.BuscarPorId(id));
+        }
+
 
     }
 }

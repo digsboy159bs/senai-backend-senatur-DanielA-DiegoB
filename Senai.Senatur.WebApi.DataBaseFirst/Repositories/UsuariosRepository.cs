@@ -13,7 +13,9 @@ namespace Senai.Senatur.WebApi.DataBaseFirst.Repositories
 
         public Usuarios BuscarPorEmailSenha(string Email, string Senha)
         {
-            throw new NotImplementedException();
+            Usuarios usuarioBuscado = ctx.Usuarios.FirstOrDefault(u => u.Email == Email && u.Senha == Senha);
+
+            return usuarioBuscado;
         }
 
         public Usuarios BuscarPorId(int Id)
