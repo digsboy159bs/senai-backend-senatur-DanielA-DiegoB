@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Senai.Senatur.WebApi.DataBaseFirst.Domains;
@@ -26,6 +27,7 @@ namespace Senai.Senatur.WebApi.DataBaseFirst.Controller
             _usuarioRepository = new UsuariosRepository();
         }
 
+        [Authorize]
         [HttpGet]
         public IActionResult Get()
         {
