@@ -53,6 +53,7 @@ namespace Senai.Senatur.WebApi.DataBaseFirst.Repositories
 
         public List<Pacotes> Listar()
         {
+
             return ctx.Pacotes.ToList();
         }
     }

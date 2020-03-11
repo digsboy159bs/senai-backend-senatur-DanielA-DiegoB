@@ -44,7 +44,7 @@ namespace Senai.Senatur.WebApi.DataBaseFirst.Controller
                 new Claim(ClaimTypes.Role, usuarioBuscado.IdTipoUsuario.ToString())
             };
 
-            var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("senatur-chave-autenticacao"));
+            var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("Senatur-chave-autenticacao"));
 
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
